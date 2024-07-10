@@ -33,6 +33,7 @@ The Resume Analyzer is a web application that leverages the power of Google's Ge
   ```sh
   streamlit run app.py
   ```
+![Resume Analyzer](./ats4resume.png)
 
 2. **Upload Your Resume:**
   Upload a PDF version of your resume using the file uploader.
